@@ -1,0 +1,12 @@
+{
+    "CNN_Classifier": {
+        "ROC_AUC": 0.9617,
+        "Recall": 0.84,
+        "F1": 0.91
+    },
+    "LSTM_Autoencoder": {
+        "ROC_AUC": 0.6519,
+        "Recall": 0.29,
+        "F1": 0.45
+    }
+}

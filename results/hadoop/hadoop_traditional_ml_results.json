@@ -1,0 +1,17 @@
+{
+    "Random_Forest": {
+        "ROC_AUC": 1.0,
+        "Recall": 1.0,
+        "F1": 1.0
+    },
+    "Isolation_Forest": {
+        "ROC_AUC": 0.2092,
+        "Recall": 0.46,
+        "F1": 0.6
+    },
+    "OneClass_SVM": {
+        "ROC_AUC": 0.2383,
+        "Recall": 0.2,
+        "F1": 0.32
+    }
+}
