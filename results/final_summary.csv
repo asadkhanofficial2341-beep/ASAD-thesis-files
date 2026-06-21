@@ -1,0 +1,8 @@
+Model,Category,ROC_AUC,Precision,Recall,F1,TP,FN,FP,TN
+CNN Classifier,DL Supervised,0.9978,0.09,1.0,0.16,453,2,4650,327261
+Random Forest,ML Supervised,0.9902,0.29,0.89,0.44,403,52,971,330940
+LSTM Autoencoder,DL Unsupervised,0.9822,0.02,0.93,0.05,424,31,16562,315349
+Isolation Forest,ML Unsupervised,0.9559,0.04,0.04,0.04,18,437,428,331483
+VAE,Generative,0.77,0.0,0.16,0.01,75,380,16596,315315
+GAN,Generative,0.2479,0.0,0.12,0.01,56,399,16506,315405
+One-Class SVM,ML Unsupervised,0.2388,0.0,0.01,0.0,5,450,16485,315426

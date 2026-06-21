@@ -1,0 +1,31 @@
+{
+    "Traditional_ML": {
+        "Random_Forest": {
+            "ROC_AUC": 0.9902,
+            "Recall": 0.89,
+            "F1": 0.44
+        },
+        "Isolation_Forest": {
+            "ROC_AUC": 0.9559,
+            "Recall": 0.04,
+            "F1": 0.04
+        },
+        "OneClass_SVM": {
+            "ROC_AUC": 0.2388,
+            "Recall": 0.01,
+            "F1": 0.0
+        }
+    },
+    "Deep_Learning": {
+        "LSTM_Autoencoder": {
+            "ROC_AUC": 0.9822,
+            "Recall": 0.93,
+            "F1": 0.05
+        },
+        "CNN_Classifier": {
+            "ROC_AUC": 0.9978,
+            "Recall": 1.0,
+            "F1": 0.16
+        }
+    }
+}

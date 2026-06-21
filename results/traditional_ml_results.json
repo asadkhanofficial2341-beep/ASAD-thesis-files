@@ -1,0 +1,17 @@
+{
+    "Random Forest": {
+        "ROC_AUC": 0.9902,
+        "F1_Anomaly": 0.44,
+        "Recall_Anomaly": 0.89
+    },
+    "Isolation Forest": {
+        "ROC_AUC": 0.9559,
+        "F1_Anomaly": 0.04,
+        "Recall_Anomaly": 0.04
+    },
+    "One_Class_SVM": {
+        "ROC_AUC": 0.2388,
+        "F1_Anomaly": 0.0,
+        "Recall_Anomaly": 0.01
+    }
+}
